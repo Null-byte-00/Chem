@@ -5,5 +5,6 @@ import (
 )
 
 func SmilesToMolecule(smiles string) Molecule {
-	
+	var atoms []int
+
 }
